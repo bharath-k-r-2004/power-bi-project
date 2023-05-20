@@ -1,0 +1,1 @@
+# power-bi-project this is a project which contains the visualisation of data through microsoft's power bi, In this project i used various grpahs and various tools of power bi to visualize the data which would give a small introduction about the data i used 
